@@ -1,0 +1,438 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		25B05F1428AF4F1B00ED3176 /* Final project ccopy.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25B05F1228AF4F1B00ED3176 /* Final project ccopy.storyboard */; };
+		25B05F1628AF4FE000ED3176 /* Final project ccopy.storyboardc in Resources */ = {isa = PBXBuildFile; fileRef = 25B05F1528AF4FE000ED3176 /* Final project ccopy.storyboardc */; };
+		BDC8369C28AC2F1000B5B131 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC8369B28AC2F1000B5B131 /* AppDelegate.swift */; };
+		BDC8369E28AC2F1000B5B131 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC8369D28AC2F1000B5B131 /* SceneDelegate.swift */; };
+		BDC836A028AC2F1000B5B131 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC8369F28AC2F1000B5B131 /* ViewController.swift */; };
+		BDC836A328AC2F1000B5B131 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDC836A128AC2F1000B5B131 /* Main.storyboard */; };
+		BDC836A628AC2F1000B5B131 /* ChillChatApp2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BDC836A428AC2F1000B5B131 /* ChillChatApp2.xcdatamodeld */; };
+		BDC836A828AC2F1100B5B131 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDC836A728AC2F1100B5B131 /* Assets.xcassets */; };
+		BDC836AB28AC2F1100B5B131 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDC836A928AC2F1100B5B131 /* LaunchScreen.storyboard */; };
+		BDD2A58B28AD28A6003B8C92 /* InitialData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A58A28AD28A6003B8C92 /* InitialData.swift */; };
+		BDD2A58D28AD2D63003B8C92 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A58C28AD2D63003B8C92 /* ViewController2.swift */; };
+		BDD2A58F28AD2ED0003B8C92 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A58E28AD2ED0003B8C92 /* ViewController3.swift */; };
+		BDD2A59128AD483A003B8C92 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A59028AD483A003B8C92 /* ViewController4.swift */; };
+		BDD2A59328AD6F0F003B8C92 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A59228AD6F0F003B8C92 /* ViewController5.swift */; };
+		BDD2A59528AD72A2003B8C92 /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A59428AD72A2003B8C92 /* ViewController6.swift */; };
+		BDD2A59728AE8D27003B8C92 /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A59628AE8D27003B8C92 /* ViewController7.swift */; };
+		BDD2A59928AEABD0003B8C92 /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A59828AEABD0003B8C92 /* ViewController8.swift */; };
+		BDD2A59B28AEB12B003B8C92 /* ViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A59A28AEB12B003B8C92 /* ViewController9.swift */; };
+		BDD2A59F28AEC14E003B8C92 /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A59E28AEC14E003B8C92 /* NoteViewController.swift */; };
+		BDD2A5A128AEC162003B8C92 /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDD2A5A028AEC162003B8C92 /* EntryViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		25B05F1328AF4F1B00ED3176 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "ChillChatApp2/Base.lproj/Final project ccopy.storyboard"; sourceTree = "<group>"; };
+		25B05F1528AF4FE000ED3176 /* Final project ccopy.storyboardc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.storyboardc; path = "Final project ccopy.storyboardc"; sourceTree = "<group>"; };
+		BDC8369828AC2F1000B5B131 /* ChillChatApp2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChillChatApp2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BDC8369B28AC2F1000B5B131 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BDC8369D28AC2F1000B5B131 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		BDC8369F28AC2F1000B5B131 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BDC836A228AC2F1000B5B131 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BDC836A528AC2F1000B5B131 /* ChillChatApp2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ChillChatApp2.xcdatamodel; sourceTree = "<group>"; };
+		BDC836A728AC2F1100B5B131 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BDC836AA28AC2F1100B5B131 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BDC836AC28AC2F1100B5B131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDD2A58A28AD28A6003B8C92 /* InitialData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialData.swift; sourceTree = "<group>"; };
+		BDD2A58C28AD2D63003B8C92 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ViewController2.swift; sourceTree = "<group>"; };
+		BDD2A58E28AD2ED0003B8C92 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		BDD2A59028AD483A003B8C92 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		BDD2A59228AD6F0F003B8C92 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		BDD2A59428AD72A2003B8C92 /* ViewController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
+		BDD2A59628AE8D27003B8C92 /* ViewController7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController7.swift; sourceTree = "<group>"; };
+		BDD2A59828AEABD0003B8C92 /* ViewController8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
+		BDD2A59A28AEB12B003B8C92 /* ViewController9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewController9.swift; path = ../ViewController9.swift; sourceTree = "<group>"; };
+		BDD2A59E28AEC14E003B8C92 /* NoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
+		BDD2A5A028AEC162003B8C92 /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BDC8369528AC2F1000B5B131 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BDC8368F28AC2F1000B5B131 = {
+			isa = PBXGroup;
+			children = (
+				25B05F1528AF4FE000ED3176 /* Final project ccopy.storyboardc */,
+				25B05F1228AF4F1B00ED3176 /* Final project ccopy.storyboard */,
+				BDC8369A28AC2F1000B5B131 /* ChillChatApp2 */,
+				BDC8369928AC2F1000B5B131 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BDC8369928AC2F1000B5B131 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BDC8369828AC2F1000B5B131 /* ChillChatApp2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BDC8369A28AC2F1000B5B131 /* ChillChatApp2 */ = {
+			isa = PBXGroup;
+			children = (
+				BDC8369F28AC2F1000B5B131 /* ViewController.swift */,
+				BDD2A58C28AD2D63003B8C92 /* ViewController2.swift */,
+				BDD2A58E28AD2ED0003B8C92 /* ViewController3.swift */,
+				BDD2A59028AD483A003B8C92 /* ViewController4.swift */,
+				BDD2A59228AD6F0F003B8C92 /* ViewController5.swift */,
+				BDD2A59428AD72A2003B8C92 /* ViewController6.swift */,
+				BDD2A59628AE8D27003B8C92 /* ViewController7.swift */,
+				BDD2A59828AEABD0003B8C92 /* ViewController8.swift */,
+				BDD2A59A28AEB12B003B8C92 /* ViewController9.swift */,
+				BDC8369B28AC2F1000B5B131 /* AppDelegate.swift */,
+				BDC8369D28AC2F1000B5B131 /* SceneDelegate.swift */,
+				BDC836A128AC2F1000B5B131 /* Main.storyboard */,
+				BDD2A59E28AEC14E003B8C92 /* NoteViewController.swift */,
+				BDD2A5A028AEC162003B8C92 /* EntryViewController.swift */,
+				BDD2A58A28AD28A6003B8C92 /* InitialData.swift */,
+				BDC836A728AC2F1100B5B131 /* Assets.xcassets */,
+				BDC836A928AC2F1100B5B131 /* LaunchScreen.storyboard */,
+				BDC836AC28AC2F1100B5B131 /* Info.plist */,
+				BDC836A428AC2F1000B5B131 /* ChillChatApp2.xcdatamodeld */,
+			);
+			path = ChillChatApp2;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BDC8369728AC2F1000B5B131 /* ChillChatApp2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BDC836AF28AC2F1100B5B131 /* Build configuration list for PBXNativeTarget "ChillChatApp2" */;
+			buildPhases = (
+				BDC8369428AC2F1000B5B131 /* Sources */,
+				BDC8369528AC2F1000B5B131 /* Frameworks */,
+				BDC8369628AC2F1000B5B131 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ChillChatApp2;
+			productName = ChillChatApp2;
+			productReference = BDC8369828AC2F1000B5B131 /* ChillChatApp2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BDC8369028AC2F1000B5B131 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					BDC8369728AC2F1000B5B131 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+				};
+			};
+			buildConfigurationList = BDC8369328AC2F1000B5B131 /* Build configuration list for PBXProject "ChillChatApp2" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BDC8368F28AC2F1000B5B131;
+			productRefGroup = BDC8369928AC2F1000B5B131 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BDC8369728AC2F1000B5B131 /* ChillChatApp2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BDC8369628AC2F1000B5B131 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				25B05F1428AF4F1B00ED3176 /* Final project ccopy.storyboard in Resources */,
+				BDC836AB28AC2F1100B5B131 /* LaunchScreen.storyboard in Resources */,
+				BDC836A828AC2F1100B5B131 /* Assets.xcassets in Resources */,
+				25B05F1628AF4FE000ED3176 /* Final project ccopy.storyboardc in Resources */,
+				BDC836A328AC2F1000B5B131 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BDC8369428AC2F1000B5B131 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BDC836A028AC2F1000B5B131 /* ViewController.swift in Sources */,
+				BDC836A628AC2F1000B5B131 /* ChillChatApp2.xcdatamodeld in Sources */,
+				BDC8369C28AC2F1000B5B131 /* AppDelegate.swift in Sources */,
+				BDD2A59528AD72A2003B8C92 /* ViewController6.swift in Sources */,
+				BDD2A59128AD483A003B8C92 /* ViewController4.swift in Sources */,
+				BDD2A5A128AEC162003B8C92 /* EntryViewController.swift in Sources */,
+				BDD2A59328AD6F0F003B8C92 /* ViewController5.swift in Sources */,
+				BDC8369E28AC2F1000B5B131 /* SceneDelegate.swift in Sources */,
+				BDD2A59728AE8D27003B8C92 /* ViewController7.swift in Sources */,
+				BDD2A58B28AD28A6003B8C92 /* InitialData.swift in Sources */,
+				BDD2A58F28AD2ED0003B8C92 /* ViewController3.swift in Sources */,
+				BDD2A59B28AEB12B003B8C92 /* ViewController9.swift in Sources */,
+				BDD2A58D28AD2D63003B8C92 /* ViewController2.swift in Sources */,
+				BDD2A59F28AEC14E003B8C92 /* NoteViewController.swift in Sources */,
+				BDD2A59928AEABD0003B8C92 /* ViewController8.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		25B05F1228AF4F1B00ED3176 /* Final project ccopy.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				25B05F1328AF4F1B00ED3176 /* Base */,
+			);
+			name = "Final project ccopy.storyboard";
+			sourceTree = "<group>";
+		};
+		BDC836A128AC2F1000B5B131 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BDC836A228AC2F1000B5B131 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		BDC836A928AC2F1100B5B131 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BDC836AA28AC2F1100B5B131 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BDC836AD28AC2F1100B5B131 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BDC836AE28AC2F1100B5B131 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BDC836B028AC2F1100B5B131 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ChillChatApp2/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = KWK.ChillChatApp2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BDC836B128AC2F1100B5B131 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ChillChatApp2/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = KWK.ChillChatApp2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BDC8369328AC2F1000B5B131 /* Build configuration list for PBXProject "ChillChatApp2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BDC836AD28AC2F1100B5B131 /* Debug */,
+				BDC836AE28AC2F1100B5B131 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BDC836AF28AC2F1100B5B131 /* Build configuration list for PBXNativeTarget "ChillChatApp2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BDC836B028AC2F1100B5B131 /* Debug */,
+				BDC836B128AC2F1100B5B131 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		BDC836A428AC2F1000B5B131 /* ChillChatApp2.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				BDC836A528AC2F1000B5B131 /* ChillChatApp2.xcdatamodel */,
+			);
+			currentVersion = BDC836A528AC2F1000B5B131 /* ChillChatApp2.xcdatamodel */;
+			path = ChillChatApp2.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = BDC8369028AC2F1000B5B131 /* Project object */;
+}
